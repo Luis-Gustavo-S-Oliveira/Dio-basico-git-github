@@ -1,2 +1,2 @@
-# Dio-basico-git-github
+# Dio-git-github
 Comando basicos do git 
