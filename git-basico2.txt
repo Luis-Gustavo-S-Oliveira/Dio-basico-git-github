@@ -23,6 +23,9 @@ git push = empurar o arquivo para a nuvem
 
 git status = confere o status dos arquivos 
 
+git reser = ferramentas básicas para desfazer modificações que você fez. Cuidado, porque você não pode desfazer algumas dessas mudanças.
+Essa é uma das poucas áreas no Git onde você pode perder algum trabalho se fizer errado.
+
 
 
 link uteis[https://comandosgit.github.io/]
