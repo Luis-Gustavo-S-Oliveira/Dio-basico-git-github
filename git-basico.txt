@@ -18,6 +18,8 @@ git add =  adiciona arquivos modificados ou novos ao índice do Git, preparando-
 
 git commit = Armazena o conteúdo atual do índice em um novo commit, juntamente com uma mensagem de registro do usuário que descreve as mudanças
 
+git push = empurar o arquivo para a nuvem  
+
 link uteis[https://comandosgit.github.io/]
 
 
