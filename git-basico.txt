@@ -1,0 +1,23 @@
+git basico
+
+Blob = objeto que armazena o conteudo do arquivo(Binar Large Object)
+
+Tree = cria a hierarquia  entre arquivos em um repositorio do git(uma tree pode se ligar a outra tree)
+
+Commit = registrar as alterações feitas em um projeto, assim 
+permitindo que eles sejam salva permanentemente, tambem salva informações mais especificas como o horario, autor e etc
+
+sha1 =  é um sistema de segurança que gera um codigo de 40 caracteres para cada arquivo e para cada alteraçaõ do mesmo
+
+ssh = permitindo a comunicaçaõ entre o remoto e o servidor de forma criptografada.
+
+comandos basicos
+git clone = o git clona o arquivo de um servidor da nuvem e o disponibilizar no remoto 
+
+git add =  adiciona arquivos modificados ou novos ao índice do Git, preparando-os para o próximo commit
+
+git commit = Armazena o conteúdo atual do índice em um novo commit, juntamente com uma mensagem de registro do usuário que descreve as mudanças
+
+link uteis[https://comandosgit.github.io/]
+
+
